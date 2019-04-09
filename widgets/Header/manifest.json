@@ -1,0 +1,19 @@
+{
+  "name": "Header",
+  "label": "Header",
+  "2D": true,
+  "3D": false,
+  "platform": "HTML",
+  "version": "2.11",
+  "wabVersion": "2.11",
+  "author": "carolina",
+  "description": "",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "properties": {
+    "hasConfig": true,
+    "inPanel": true,
+    "isController": true,
+    "isThemeWidget": true
+  }
+}

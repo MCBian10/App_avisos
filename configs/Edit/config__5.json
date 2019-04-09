@@ -1,0 +1,96 @@
+{
+  "editor": {
+    "enableUndoRedo": true,
+    "toolbarVisible": true,
+    "toolbarOptions": {
+      "mergeVisible": false,
+      "cutVisible": false,
+      "reshapeVisible": false
+    },
+    "honorSettingOfWebmap": true,
+    "layerInfos": [
+      {
+        "featureLayer": {
+          "id": "CapaEditable_5629"
+        },
+        "disableGeometryUpdate": false,
+        "allowCreate": true,
+        "allowDelete": true,
+        "fieldInfos": [
+          {
+            "fieldName": "OBJECTID",
+            "label": "OBJECTID",
+            "isEditable": false,
+            "visible": false
+          },
+          {
+            "fieldName": "RazonAviso",
+            "label": "Razón del aviso",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "TipoIncidencia",
+            "label": "Tipo de incidencia",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "GravedadIncidencia",
+            "label": "Gravedad de la incidencia",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "PrimerAviso",
+            "label": "¿Es la primera vez que alerta de esta incidencia?",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "Comentarios",
+            "label": "Comentarios",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "GlobalID",
+            "label": "GlobalID",
+            "isEditable": false,
+            "visible": false
+          },
+          {
+            "fieldName": "CreationDate",
+            "label": "CreationDate",
+            "isEditable": false,
+            "visible": false
+          },
+          {
+            "fieldName": "Creator",
+            "label": "Creator",
+            "isEditable": false,
+            "visible": false
+          },
+          {
+            "fieldName": "EditDate",
+            "label": "EditDate",
+            "isEditable": false,
+            "visible": false
+          },
+          {
+            "fieldName": "Editor",
+            "label": "Editor",
+            "isEditable": false,
+            "visible": false
+          }
+        ]
+      }
+    ],
+    "useFilterEdit": false,
+    "autoApplyEditWhenGeometryIsMoved": false,
+    "snappingTolerance": 15,
+    "popupTolerance": 5,
+    "stickyMoveTolerance": 0,
+    "usingSaveButton": false
+  }
+}
